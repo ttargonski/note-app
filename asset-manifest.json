@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/note-app/static/css/main.28f3bcd7.chunk.css",
+    "main.css": "/note-app/static/css/main.7a592cf3.chunk.css",
     "main.js": "/note-app/static/js/main.f3e2fa27.chunk.js",
     "main.js.map": "/note-app/static/js/main.f3e2fa27.chunk.js.map",
     "runtime-main.js": "/note-app/static/js/runtime-main.2b2f787f.js",
@@ -8,15 +8,15 @@
     "static/js/2.adedea2d.chunk.js": "/note-app/static/js/2.adedea2d.chunk.js",
     "static/js/2.adedea2d.chunk.js.map": "/note-app/static/js/2.adedea2d.chunk.js.map",
     "index.html": "/note-app/index.html",
-    "precache-manifest.1d80f2ab15e1ea97d77dc71c1c11a874.js": "/note-app/precache-manifest.1d80f2ab15e1ea97d77dc71c1c11a874.js",
+    "precache-manifest.00b83db5fb50edd571df9db4a2ea65ec.js": "/note-app/precache-manifest.00b83db5fb50edd571df9db4a2ea65ec.js",
     "service-worker.js": "/note-app/service-worker.js",
-    "static/css/main.28f3bcd7.chunk.css.map": "/note-app/static/css/main.28f3bcd7.chunk.css.map",
+    "static/css/main.7a592cf3.chunk.css.map": "/note-app/static/css/main.7a592cf3.chunk.css.map",
     "static/js/2.adedea2d.chunk.js.LICENSE.txt": "/note-app/static/js/2.adedea2d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2b2f787f.js",
     "static/js/2.adedea2d.chunk.js",
-    "static/css/main.28f3bcd7.chunk.css",
+    "static/css/main.7a592cf3.chunk.css",
     "static/js/main.f3e2fa27.chunk.js"
   ]
 }
